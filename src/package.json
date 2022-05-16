@@ -1,0 +1,21 @@
+{
+  "name": "redring",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/v3v0my2370",
+  "main": "index.js",
+  "dependencies": {
+    "@popperjs/core": "2.11.0",
+    "animate.css": "4.1.1",
+    "bootstrap": "5.0.2",
+    "dot": "1.1.3",
+    "mobx": "6.3.2",
+    "mobx-react-lite": "3.2.0",
+    "mobx-state-tree": "5.0.5",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "store2": "2.13.1",
+    "uuid": "8.3.2"
+  }
+}
